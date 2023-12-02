@@ -1,0 +1,93 @@
+ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,LOCATION_ID
+897 Long Airport Avenue,,NYC,NY,10022,USA,,L1
+59 rue de l'Abbaye,,Reims,,51100,France,EMEA,L2
+27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,L3
+78934 Hillside Dr.,,Pasadena,CA,90003,USA,,L4
+7734 Strong St.,,San Francisco,CA,,USA,,L5
+9408 Furth Circle,,Burlingame,CA,94217,USA,,L6
+"184, chausse de Tournai",,Lille,,59000,France,EMEA,L7
+"Drammen 121, PR 744 Sentrum",,Bergen,,N 5804,Norway,EMEA,L8
+5557 North Pendale Street,,San Francisco,CA,,USA,,L9
+"25, rue Lauriston",,Paris,,75016,France,EMEA,L10
+636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,L11
+2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,,L12
+7476 Moss Rd.,,Newark,NJ,94019,USA,,L13
+25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,L14
+"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,L15
+39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,,L16
+Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,L17
+Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,L18
+7586 Pompton St.,,Allentown,PA,70267,USA,,L19
+Geislweg 14,,Salzburg,,5020,Austria,EMEA,L20
+"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,L21
+1785 First Street,,New Bedford,MA,50553,USA,,L22
+Berkeley Gardens 12  Brewery,,Liverpool,,WX1 6LT,UK,EMEA,L23
+"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,L24
+Berguvsvgen  8,,Lule,,S-958 22,Sweden,EMEA,L25
+"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,L26
+"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,L27
+5905 Pompton St.,Suite 750,NYC,NY,10022,USA,,L28
+31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,L29
+782 First Street,,Philadelphia,PA,71270,USA,,L30
+"2, rue du Commerce",,Lyon,,69004,France,EMEA,L31
+1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,,L32
+3675 Furth Circle,,Burbank,CA,94019,USA,,L33
+4658 Baden Av.,,Cambridge,MA,51247,USA,,L34
+567 North Pendale Street,,New Haven,CT,97823,USA,,L35
+2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,L36
+Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,L37
+?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,L38
+"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,L39
+5677 Strong St.,,San Rafael,CA,97562,USA,,L40
+2304 Long Airport Avenue,,Nashua,NH,62005,USA,,L41
+7825 Douglas Av.,,Brickhaven,MA,58339,USA,,L42
+201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,L43
+43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,L44
+"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,L45
+11328 Douglas Av.,,Philadelphia,PA,71270,USA,,L46
+"54, rue Royale",,Nantes,,44000,France,EMEA,L47
+3758 North Pendale Street,,White Plains,NY,24067,USA,,L48
+Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,L49
+35 King George,,London,,WX3 6FW,UK,EMEA,L50
+4575 Hillside Dr.,,New Bedford,MA,50553,USA,,L51
+1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,L52
+120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,L53
+"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA,L54
+6047 Douglas Av.,,Los Angeles,CA,,USA,,L55
+361 Furth Circle,,San Diego,CA,91217,USA,,L56
+Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,L57
+23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,,L58
+8616 Spinnaker Dr.,,Boston,MA,51003,USA,,L59
+Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,L60
+Torikatu 38,,Oulu,,90110,Finland,EMEA,L61
+3086 Ingle Ln.,,San Jose,CA,94217,USA,,L62
+"265, boulevard Charonne",,Paris,,75012,France,EMEA,L63
+Kirchgasse 6,,Graz,,8010,Austria,EMEA,L64
+6251 Ingle Ln.,,Boston,MA,51003,USA,,L65
+Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,L66
+15 McCallum Street - NatWest Center #13-03,,Makati City,,1227 MM,Philippines,Japan,L67
+"12, rue des Bouchers",,Marseille,,13008,France,EMEA,L68
+Mehrheimerstr. 369,,Koln,,50739,Germany,EMEA,L69
+Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,L70
+Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,L71
+7635 Spinnaker Dr.,,Brickhaven,MA,58339,USA,,L72
+Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,L73
+"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,L74
+4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,L75
+25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,L76
+"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,L77
+Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,L78
+Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,L79
+5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,,L80
+4097 Douglas Av.,,Glendale,CA,92561,USA,,L81
+"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA,L82
+2793 Furth Circle,,Brisbane,CA,94217,USA,,L83
+"24, place Kluber",,Strasbourg,,67000,France,EMEA,L84
+8489 Strong St.,,Las Vegas,NV,83030,USA,,L85
+"Drammensveien 126 A, PB 744 Sentrum",,Oslo,,N 0106,Norway,EMEA,L86
+Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,L87
+7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,L88
+2440 Pompton St.,,Glendale,CT,97561,USA,,L89
+Hansastr. 15,,Munich,,80686,Germany,EMEA,L90
+"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA,L91
+16780 Pompton St.,,Brickhaven,MA,58339,USA,,L92
